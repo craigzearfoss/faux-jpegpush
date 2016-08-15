@@ -1,0 +1,19 @@
+{
+    "name": "craigzearfoss/faux-jpegpush",
+    "description": "JavaScript that simulates a jpegpush and simulates a chat session.",
+    "keywords": [
+        "php",
+        "craigzearfoss",
+        "javascript"
+    ],
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Craig Zearfoss",
+            "email": "craigzearfoss@yahoo.com",
+            "homepage": "https://craigzearfoss.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev"
+}
